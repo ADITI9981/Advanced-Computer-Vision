@@ -8,3 +8,21 @@
 </p>
 
 ---
+
+##  Overview
+
+Welcome to my **Advanced Computer Vision** repository — a comprehensive collection of learning modules and projects using OpenCV, MediaPipe, and deep learning techniques. From foundational concepts to real-world applications, this repo is your gateway to mastering computer vision.
+
+---
+
+##  Chapters & Learning Modules
+| Chapter | Focus Area |
+|--------|------------|
+| Chapter 1 | Hand Tracking (Basics & Custom Module) |
+| Chapter 2 | Pose Estimation (Basics & Module) |
+| Chapter 3 | Face Detection (Basics & Module) |
+| Chapter 4 | Face Mesh (Basics & Module) |
+
+Each chapter offers hands-on explanations and code for building from scratch and customizing computer vision modules.
+
+---
