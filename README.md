@@ -26,3 +26,10 @@ Welcome to my **Advanced Computer Vision** repository — a comprehensive collec
 Each chapter offers hands-on explanations and code for building from scratch and customizing computer vision modules.
 
 ---
+
+### ✋ Chapter 1: Hand Tracking
+
+- **Video Demos:**
+  <p align="center">
+    <video src="https://github.com/user-attachments/assets/5ed169b9-fc92-4c2e-a8c8-1afe64f9ee7e" width="60%" controls></video>
+  </p>
