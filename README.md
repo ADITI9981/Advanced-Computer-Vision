@@ -37,9 +37,26 @@ Each chapter offers hands-on explanations and code for building from scratch and
 ---
 
 ### 🏋️ Chapter 2: Pose Estimation
-- [Code Folder](./Chapter2_PoseEstimation)
 - **Video Demos:**
   <p align="center">
     <video src="https://github.com/user-attachments/assets/67bd94a1-3a47-480a-a256-2ef94ccd7115"width="45%" controls></video>
     <video src="https://github.com/user-attachments/assets/f36b95b0-833c-44d4-bea3-e6c1ef9ac2a5" width="45%" controls></video>
+  </p>
+
+---
+
+### 😀 Chapter 3: Face Detection
+- **Video Demos:**
+  <p align="center">
+<video src="https://github.com/user-attachments/assets/845b8446-759e-430c-92ec-32e46ca0febd" width="45%" controls></video>
+ <video src="https://github.com/user-attachments/assets/94ad0c50-0795-4684-b69f-95371b53767a" width="45%" controls></video>
+  </p>
+
+---
+
+### 👀 Chapter 4: Face Mesh
+- **Video Demos:**
+  <p align="center">
+    <video src="./assets/ch4_demo1.mp4" width="45%" controls></video>
+    <video src="./assets/ch4_demo2.mp4" width="45%" controls></video>
   </p>
