@@ -1,5 +1,5 @@
 <p align="center">
-# ​ Advanced Computer Vision Projects
+<h1></h1>Advanced Computer Vision Projects</p></h1>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" />
