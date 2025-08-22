@@ -1,5 +1,6 @@
+<p align="center">
 # ​ Advanced Computer Vision Projects
-
+</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/OpenCV-4.x-green?style=for-the-badge&logo=opencv" />
