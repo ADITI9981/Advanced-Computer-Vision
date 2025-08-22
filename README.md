@@ -1,6 +1,5 @@
-<p align="center">
-<h1></h1>Advanced Computer Vision Projects</p></h1>
-</p>
+<h1 align="center"> ✋🎚️Advanced Computer Vision Projects </h1>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/OpenCV-4.x-green?style=for-the-badge&logo=opencv" />
