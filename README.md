@@ -29,7 +29,17 @@ Each chapter offers hands-on explanations and code for building from scratch and
 
 ### ✋ Chapter 1: Hand Tracking
 
-- **Video Demos:**
+- **Video Demo:**
   <p align="center">
     <video src="https://github.com/user-attachments/assets/5ed169b9-fc92-4c2e-a8c8-1afe64f9ee7e" width="60%" controls></video>
+  </p>
+
+---
+
+### 🏋️ Chapter 2: Pose Estimation
+- [Code Folder](./Chapter2_PoseEstimation)
+- **Video Demos:**
+  <p align="center">
+    <video src="https://github.com/user-attachments/assets/67bd94a1-3a47-480a-a256-2ef94ccd7115"width="45%" controls></video>
+    <video src="https://github.com/user-attachments/assets/f36b95b0-833c-44d4-bea3-e6c1ef9ac2a5" width="45%" controls></video>
   </p>
