@@ -57,6 +57,6 @@ Each chapter offers hands-on explanations and code for building from scratch and
 ### 👀 Chapter 4: Face Mesh
 - **Video Demos:**
   <p align="center">
-    <video src="./assets/ch4_demo1.mp4" width="45%" controls></video>
-    <video src="./assets/ch4_demo2.mp4" width="45%" controls></video>
-  </p>
+    <video src="https://github.com/user-attachments/assets/1b3802b0-9650-44c5-ab31-426d06a4f03f
+"45%" controls></video>
+
