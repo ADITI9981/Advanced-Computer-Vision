@@ -59,4 +59,4 @@ Each chapter offers hands-on explanations and code for building from scratch and
   <p align="center">
     <video src="https://github.com/user-attachments/assets/1b3802b0-9650-44c5-ab31-426d06a4f03f
 "45%" controls></video>
-
+</p>
